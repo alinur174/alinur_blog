@@ -31,6 +31,12 @@ class CategoryController extends Controller
 
     }
 
+
+    public function test()
+    {
+        
+    }
+
     /**
      * Store a newly created resource in storage.
      *
